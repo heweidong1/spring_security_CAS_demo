@@ -1,4 +1,4 @@
 package com.kgc.demo;
 
-public class gitTest {
+public class GitTest {
 }
